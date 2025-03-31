@@ -72,13 +72,13 @@ A Flask web application demonstrating CRUD operations for items stored in a **My
 
 The application runs in debug mode. **Do not use debug mode in production.**
 
-## API Endpoints
+<!-- ## API Endpoints
 (...keep existing API endpoint descriptions...)
 
 ## Project Structure
-(...keep existing structure, maybe add note about database model...)
+(...keep existing structure, maybe add note about database model...) -->
 
-## Notes
+<!-- ## Notes
 
 *   Item data is now **persistently stored** in the configured MySQL database.
-*   Database table creation is handled automatically on the first run for development simplicity using `db.create_all()`. For production or more complex schema changes (migrations), consider using `Flask-Migrate`.
+*   Database table creation is handled automatically on the first run for development simplicity using `db.create_all()`. For production or more complex schema changes (migrations), consider using `Flask-Migrate`. -->
